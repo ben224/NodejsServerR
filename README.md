@@ -1,4 +1,4 @@
-技術練習之Nodejs,網頁版井字棋  
+技術練習之Nodejs,網頁版小遊戲井字棋  
 Nodejs模擬一般web server(server.js)  
 預設網站根目錄為\www  
 進入一般資料夾可列出下層資料夾和檔案(如http://localhost:8000/test) 
