@@ -1,0 +1,59 @@
+html {
+    height:100%;
+    width:100%;
+}
+
+/* set the same font-family */
+body, button, html, input, select {
+    font-family: "Microsoft JhengHei";
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn-ttt{
+    border-radius: 5px;
+    font-size: 32px;
+    color: #fff;
+    font-weight: normal;
+    padding: 10px 20px;
+    margin: 5px 2px;
+    width: 80px;
+    height:80px;
+}
+
+.reset {
+    border: 5px;
+    border-radius: 10px;
+    font-size: 24px;
+    color: #eb4034;
+    font-weight: normal;
+    padding: 10px 20px;
+    margin: 5px 2px;
+    width: 120px;
+    height: 60px;
+}
+
+ol li {
+    font-size: 24px;
+}
+
+.result {
+    color: #4169e1;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex ;
+}
+
+.lead {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+
+
